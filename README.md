@@ -20,3 +20,10 @@ A first year Computer Science and Mathematics (Discere Maths) student at the Uni
 
 [ICHack 2022](https://ic-hack-2022.devpost.com/?ref_feature=challenge&ref_medium=discover) - [PhotoPaste](https://github.com/thesanjeetc/ichack-notetaker) - Allows users to directly cut and "move" objects from their phone camera to their computer screen.
 
+**Coursework**
+
+Robot Maze AI - Using Ai to navigate a robot in a simulated maze environment.
+
+WAFFLES - Making a Trip-Advisor Clone in Java.
+
+Hurdle - Making a Wordle Clone in Haskell and creating an AI to effectively solve it.
