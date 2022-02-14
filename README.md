@@ -18,7 +18,7 @@ Certificate Scraper - Processes 1000s of certificates using OpenCv to sort them 
 
 [Cambridge Atlas](https://hackcambridge-atlas.devpost.com/) - [CarbonClothing](https://github.com/SteadydeetsHackCam2022/HackCambridge2022)  - Site to allows you to reverse search items for second hand alternatives (Incomplete)
 
-[ICHack 2022](https://ic-hack-2022.devpost.com/?ref_feature=challenge&ref_medium=discover) - PhotoPaste - Allows users to directly cut and "move" objects from their phone camera to their computer screen.
+[ICHack 2022](https://ic-hack-2022.devpost.com/?ref_feature=challenge&ref_medium=discover) - PhotoPaste - Allows users to directly cut and physically "move" objects from their phone camera to their computer screen.
 
 **Coursework**
 
