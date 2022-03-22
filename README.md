@@ -1,6 +1,6 @@
 Hi I'm Sam
 
-A first year Computer Science and Mathematics (Discere Maths) student at the University of Warwick.
+A first year Computer Science and Mathematics (Discrete Maths) student at the University of Warwick.
 
 **Personal Projects**
 
