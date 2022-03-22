@@ -24,6 +24,10 @@ Certificate Scraper - Processes 1000s of certificates using OpenCv to sort them 
 
 Robot Maze AI - Using Ai to navigate a robot in a simulated maze environment.
 
-WAFFLES - Making a Trip-Advisor Clone in Java.
+WAFFLES - A Trip-Advisor Clone in Java.
 
-Hurdle - Making a Wordle Clone in Haskell and creating an AI to effectively solve it.
+Hurdle - A terminal-based Wordle Clone in Haskell and creating an AI to effectively solve it.
+
+**Currently Working On:**
+
+Chip8.hs - A Chip8 Emulator in Haskell.
