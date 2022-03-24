@@ -26,7 +26,7 @@ Robot Maze AI - Using Ai to navigate a robot in a simulated maze environment.
 
 WAFFLES - A Trip-Advisor Clone in Java.
 
-Hurdle - A terminal-based Wordle Clone in Haskell and creating an AI to effectively solve it.
+[Hurdle](https://github.com/spchee/hurdle) - A terminal-based Wordle Clone in Haskell and creating an AI to effectively solve it.
 
 **Currently Working On:**
 
