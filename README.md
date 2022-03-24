@@ -12,9 +12,11 @@ Certificate Scraper - Processes 1000s of certificates using OpenCv to sort them 
 
 **Hackathons**
 
+[StacsHacks 007](https://stacshack-007.devpost.com/) - [EnviroMP](https://github.com/EnviroHackNice/EnviroMP/tree/main) - Website to rank MPs on their Environmental voting record. Won Bloomberg and NCR prizes. 
+
+
 [HacktheBurgh](https://hack-the-burgh-7.devpost.com/) - Optiver Trading Bot - Developed a Python trading bot to compete in Optiver’s simulated trading platform.
 
-[StacsHacks 007](https://stacshack-007.devpost.com/) - [EnviroMP](https://github.com/EnviroHackNice/EnviroMP/tree/main) - Website to rank MPs on their Environmental voting record.
 
 [Cambridge Atlas](https://hackcambridge-atlas.devpost.com/) - [CarbonClothing](https://github.com/SteadydeetsHackCam2022/HackCambridge2022)  - Site to allows you to reverse search items for second hand alternatives (Incomplete)
 
