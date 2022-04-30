@@ -30,6 +30,11 @@ WAFFLES - A Trip-Advisor Clone in Java.
 
 [Hurdle](https://github.com/spchee/hurdle) - A terminal-based Wordle Clone in Haskell and creating an AI to effectively solve it.
 
+
+**Other:**
+
+Jane Street Insight ETC Trading Bot - Implemented a C++ trading bot in 3 hours to compete in Jane Street's simulated trading platform with 12 other participants. 
+
 **Currently Working On:**
 
 Chip8.hs - A Chip8 Emulator in Haskell.
