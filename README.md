@@ -4,6 +4,8 @@ A first year Computer Science and Mathematics (Discrete Maths) student at the Un
 
 **Personal Projects**
 
+Chip8.hs - A Chip8 Emulator in Haskell.
+
 [Second Hand Clothes Searcher](https://github.com/spchee/SecondHandClothesSite) - Combines the search results of Depop and Vinted 
 
 [Music Genre Detector](https://github.com/spchee/MusicGenreClassifierCNN) - Uses CNNS to determine the genre of a piece of music.
@@ -32,6 +34,4 @@ WAFFLES - A Trip-Advisor Clone in Java.
 
 **Currently Working On:**
 
-Chip8.hs - A Chip8 Emulator in Haskell.
-
-Arm Internship
+University work
